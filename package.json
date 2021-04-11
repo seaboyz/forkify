@@ -1,0 +1,23 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe app using mvc with vanilla javascript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seaboyz/forkify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seaboyz/forkify/issues"
+  },
+  "homepage": "https://github.com/seaboyz/forkify#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2",
+    "sass": "^1.32.8"
+  }
+}
